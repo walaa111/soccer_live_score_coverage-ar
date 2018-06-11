@@ -42,4 +42,7 @@ soccer live score coverage
     <preference name="android-minSdkVersion" value="15" />
     <plugin name="cordova-plugin-admob-simple" spec="^3.3.4" />
     <plugin name="cordova-plugin-whitelist" />
+    <plugin name="cordova-google-api-version" spec="~0.0.1">
+        <variable name="GOOGLE_API_VERSION" value="11.2.0" />
+    </plugin>
 </widget>

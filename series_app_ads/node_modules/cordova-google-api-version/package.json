@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-google-api-version",
+        "scope": null,
+        "escapedName": "cordova-google-api-version",
+        "name": "cordova-google-api-version",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\test_github\\soccer_live_score_coverage-ar\\soccer_live_score_coverage-ar\\series_app_ads"
+    ]
+  ],
+  "_from": "cordova-google-api-version@latest",
+  "_id": "cordova-google-api-version@0.0.1",
+  "_inCache": true,
+  "_location": "/cordova-google-api-version",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-google-api-version-0.0.1.tgz_1503936944933_0.8486987673677504"
+  },
+  "_npmUser": {
+    "name": "christocracy",
+    "email": "chris@transistorsoft.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-google-api-version",
+    "scope": null,
+    "escapedName": "cordova-google-api-version",
+    "name": "cordova-google-api-version",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-google-api-version/-/cordova-google-api-version-0.0.1.tgz",
+  "_shasum": "f2a5a3c7cff0fec28ab0c6a1b56e590a7e0c01e4",
+  "_shrinkwrap": null,
+  "_spec": "cordova-google-api-version",
+  "_where": "D:\\test_github\\soccer_live_score_coverage-ar\\soccer_live_score_coverage-ar\\series_app_ads",
+  "author": {
+    "name": "Chris Scott, Transistor Software"
+  },
+  "dependencies": {
+    "xml2js": "~0.4.19"
+  },
+  "description": "Cordova plugin to solve Google API version conflicts by pining a desired version for all Google APIs (eg: play-services, firebase)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f2a5a3c7cff0fec28ab0c6a1b56e590a7e0c01e4",
+    "tarball": "https://registry.npmjs.org/cordova-google-api-version/-/cordova-google-api-version-0.0.1.tgz"
+  },
+  "gitHead": "a6c7c9561446aa669b5e11c60a6ac98b09af1619",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "christocracy",
+      "email": "chris@transistorsoft.com"
+    }
+  ],
+  "name": "cordova-google-api-version",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.1"
+}

@@ -33,7 +33,8 @@ module.exports.metadata =
   "cordova-admob-sdklibs": "2.1.6",
   "cordova-plugin-admob-simple": "3.3.4",
   "cordova-plugin-inappbrowser": "1.7.1-dev",
-  "cordova-plugin-whitelist": "1.3.2"
+  "cordova-plugin-whitelist": "1.3.2",
+  "cordova-google-api-version": "0.0.1"
 };
 // BOTTOM OF METADATA
 });
